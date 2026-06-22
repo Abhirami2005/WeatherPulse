@@ -1,5 +1,10 @@
 # WeatherPulse – Intelligent Real-Time Weather Analytics Dashboard
 
+
+## live link
+ "https://abhirami2005.github.io/WeatherPulse/"
+
+
 ## Overview
 
 WeatherPulse is a modern, responsive, and data-driven weather analytics dashboard designed to provide accurate real-time weather insights and forecast intelligence. Built using React, TypeScript, and Tailwind CSS, the application delivers a seamless user experience through dynamic visualizations, location-based weather tracking, and interactive forecasting capabilities.
